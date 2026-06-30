@@ -23,15 +23,9 @@ Make sure you have Python installed on your system, then open your terminal or c
 ```bash
 pip install requests dnspython
 
----
-
-#### Execution
-```bash
+# Execution
 python RaeYScan.py
 
----
-
-### 🛠️ Developer & License
-```bash
+# 🛠️ Developer & License
 # Developed by: Eng RaeYS
 # License: All Rights Reserved - Eng RaeYS
