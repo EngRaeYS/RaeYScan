@@ -16,9 +16,9 @@
 
 ---
 
-## 💻 How to Use (For Developers)
+## 💻 Running the Tool (Open Source)
 
 ### Prerequisites
-Make sure you have Python installed, then set up the required dependencies:
+Make sure you have Python installed on your system, then open your terminal or command prompt and install the required dependencies:
 ```bash
 pip install requests dnspython
