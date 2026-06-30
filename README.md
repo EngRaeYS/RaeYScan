@@ -25,15 +25,11 @@ pip install requests dnspython
 
 ---
 
-## 💻 Running the Tool (Open Source)
-Execution
-To run the script directly, download or clone the code, navigate to its directory, and execute.
-```bash
+# Execution
 python RaeYScan.py
 
 ---
 
-## 🛠️ Developer & License
-Developed by: Eng RaeYS
-
-License: All Rights Reserved - Eng RaeYS
+# 🛠️ Developer & License
+# Developed by: Eng RaeYS
+# License: All Rights Reserved - Eng RaeYS
