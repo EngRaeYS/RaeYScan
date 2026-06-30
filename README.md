@@ -25,11 +25,13 @@ pip install requests dnspython
 
 ---
 
-# Execution
+#### Execution
+```bash
 python RaeYScan.py
 
 ---
 
-# 🛠️ Developer & License
+### 🛠️ Developer & License
+```bash
 # Developed by: Eng RaeYS
 # License: All Rights Reserved - Eng RaeYS
